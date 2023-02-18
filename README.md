@@ -1,3 +1,3 @@
 # JavaSwing - Pong game
 
-Jednoduchý pong game. Dále jsem si naprogramoval ve swingu i hada. 
+Hra Pong pomocí Swing.
